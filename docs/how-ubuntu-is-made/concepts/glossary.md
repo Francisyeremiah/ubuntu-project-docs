@@ -365,8 +365,8 @@ Continuous Delivery
     * [Continuous delivery (Wikipedia)](https://en.wikipedia.org/wiki/Continuous_delivery)
 
 CI
-Continuous Integration
-    *Work in Progress*
+Continuous Integration 
+A software development practice where developers frequently integrate code changes into a shared repository. Each integration is automatically built and tested to detect errors early and improve software quality.
 
     See also:
     * [Continuous integration (Wikipedia)](https://en.wikipedia.org/wiki/Continuous_integration)
